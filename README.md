@@ -11,7 +11,7 @@
 
 ### Example of use cases
 - Amazigh Dictionnary 
-- Contact list  in Amazigh script
+- Contact list  with Amazigh script
 - Any App with data list that can be ordered according to the Amazigh alphabet
 - ...
 

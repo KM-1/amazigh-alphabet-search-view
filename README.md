@@ -4,7 +4,8 @@
 ![](https://github.com/ericferreira1992/alphabet-search-view/raw/main/demo.gif)
 
 ## Features
-- Search/filter Amazigh data listitems ;
+- Listed in Amazigh alphabetical order
+- Search/filter Amazigh script data list items ;
 - Customization ;
 - Easy to use
 

@@ -5,17 +5,17 @@
 
 ## Features
 - Listed in Amazigh alphabetical order
-- Search/filter Amazigh script data list items ;
-- Customization ;
+- Search/filter  data list items with Amazigh script
+- Customization 
 - Easy to use
 
-### Example of use
+### Example of use cases
 - Amazigh Dictionnary 
 - Contact list  in Amazigh script
-- Any data list that can be ordered according to the Amazigh alphabet
+- Any App with data list that can be ordered according to the Amazigh alphabet
 - ...
 
 
 
 ---------------------------
-Adapted for Amazigh script by KM in CRLCA
+Adapted for Amazigh script by K.Muqran at CRLCA

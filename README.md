@@ -1,4 +1,4 @@
-Flutter component for list and search a simple or complex data items, similar to contact list.
+Flutter App component for list and search data items with Amazigh Script.
 
 
 ![](https://github.com/ericferreira1992/alphabet-search-view/raw/main/demo.gif)

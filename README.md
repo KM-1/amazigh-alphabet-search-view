@@ -1,4 +1,4 @@
-# Flutter App component for list and search data items in Amazigh script.
+# Flutter App component for list and search data items in Amazigh script
 
 
 ![](https://github.com/ericferreira1992/alphabet-search-view/raw/main/demo.gif)

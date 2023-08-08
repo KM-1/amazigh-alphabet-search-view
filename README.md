@@ -18,4 +18,4 @@
 
 
 ---------------------------
-adapted for Tamazight by KM in crlca
+Adapted for Amazigh script by KM in CRLCA

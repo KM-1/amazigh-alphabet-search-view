@@ -13,3 +13,8 @@ Flutter App component for list and search data items in Amazigh script.
 - Contact list  in Amazigh script
 - Any data list that can be ordered according to the Amazigh alphabet
 - ...
+
+
+
+---------------------------
+adapted for Tamazight by KM in crlca

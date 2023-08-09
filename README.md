@@ -17,4 +17,4 @@
 ![](https://github.com/ericferreira1992/alphabet-search-view/raw/main/demo.gif)
 
 ---------------------------
-Adapted for Amazigh script by K.Muqran at CRLCA
+###### Adapted for Amazigh script by K.Muqran at CRLCA

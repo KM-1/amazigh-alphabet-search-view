@@ -1,4 +1,4 @@
-# Flutter App component for list and search data items in Amazigh script
+## Flutter App component for list and search data items with Amazigh script
 
 
 

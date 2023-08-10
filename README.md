@@ -5,7 +5,7 @@
 ## Features
 - Listed in Amazigh alphabetical order
 - Search/filter  data list items with Amazigh script
-- Customization 
+- Customization (any alphabet , any order ..)
 - Easy to use
 
 ### Example of use cases

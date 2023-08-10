@@ -4,7 +4,7 @@
 
 ## Features
 - Listed in Amazigh alphabetical order
-- Search/filter  data list items with Amazigh script
+- Search or filter  data list items with Amazigh script
 - Customization (any alphabet , any alphabetical order ..)
 - Easy to use
 

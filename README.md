@@ -18,8 +18,9 @@
   with only random data for testing
  ![Kabyle -> French Dictionnary Example](kf_ex.webm)
  
-  #### Original Example 
-![Original App Example](https://github.com/ericferreira1992/alphabet-search-view/raw/main/demo.gif)
+  #### Original Example
+  https://github.com/ericferreira1992/alphabet-search-view/
+![Original App Example](demo.gif)
 
 ---------------------------
 ###### Adapted for Amazigh script by K.Muqran at CRLCA

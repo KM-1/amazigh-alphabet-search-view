@@ -14,6 +14,11 @@
 - Any App with data list that can be ordered according to the Amazigh alphabet
 - ...
 
+  #### Example of Kabyle -> French Dictionnary
+  with only random data for testing
+ ![Kabyle -> French Dictionnary Example](kf_ex.webm)
+ 
+  #### Original Example 
 ![Original App Example](https://github.com/ericferreira1992/alphabet-search-view/raw/main/demo.gif)
 
 ---------------------------

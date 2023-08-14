@@ -18,7 +18,8 @@
   with only random data for testing
  ![Kabyle -> French Dictionnary Example](kf_ex.webm)
  
-  #### Original Example ###### from https://github.com/ericferreira1992/alphabet-search-view/
+  #### Original Example
+     ###### from https://github.com/ericferreira1992/alphabet-search-view/
 
   
 ![Original App Example](demo.gif)

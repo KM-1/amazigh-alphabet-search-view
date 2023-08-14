@@ -19,7 +19,7 @@
  ![Kabyle -> French Dictionnary Example](kf_ex.webm)
  
   #### Original Example
-     ####### from https://github.com/ericferreira1992/alphabet-search-view/
+     ###### _from https://github.com/ericferreira1992/alphabet-search-view/_
 
   
 ![Original App Example](demo.gif)

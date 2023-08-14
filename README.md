@@ -19,8 +19,10 @@
  ![Kabyle -> French Dictionnary Example](kf_ex.webm)
  
   #### Original Example
-  https://github.com/ericferreira1992/alphabet-search-view/
+  
 ![Original App Example](demo.gif)
+
+https://github.com/ericferreira1992/alphabet-search-view/
 
 ---------------------------
 ###### Adapted for Amazigh script by K.Muqran at CRLCA

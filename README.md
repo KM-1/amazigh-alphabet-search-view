@@ -18,11 +18,11 @@
   with only random data for testing
  ![Kabyle -> French Dictionnary Example](kf_ex.webm)
  
-  #### Original Example
+  #### Original Example ###### from https://github.com/ericferreira1992/alphabet-search-view/
+
   
 ![Original App Example](demo.gif)
 
-https://github.com/ericferreira1992/alphabet-search-view/
 
 ---------------------------
 ###### Adapted for Amazigh script by K.Muqran at CRLCA

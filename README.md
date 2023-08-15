@@ -6,7 +6,7 @@
 - Listed in Amazigh alphabetical order
 - Search or filter  data list items with Amazigh script
 - Customization (any alphabet , any alphabetical order ..)
-- Very simple to use
+- Very easy to use
 
 ### Example of use cases
 - Amazigh Dictionnary 

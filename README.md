@@ -9,7 +9,7 @@
 - Very easy to use
 
 ### Example of use cases
-- Amazigh Dictionnary 
+- Amazigh Dictionary 
 - Contact list  with Amazigh script
 - Any App with data list that can be ordered according to the Amazigh alphabet
 - ...

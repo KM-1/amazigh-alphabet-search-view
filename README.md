@@ -26,4 +26,4 @@
 
 
 ---------------------------
-###### Adapted for Amazigh script by K.Muqran at CRLCA
+###### Customized for Amazigh script by K.Muqran at CRLCA

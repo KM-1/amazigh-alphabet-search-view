@@ -14,10 +14,18 @@
 - Any App with data list that can be ordered according to the Amazigh alphabet
 - ...
 
+
+##To insert these new characters of Amazigh script you must create a class which inherits from Comparable the int function compareTo(other)
+
+
   #### Example of Kabyle -> French Dictionnary
   with random data for testing
  ![Kabyle -> French Dictionnary Example](kf_ex.webm)
  
+
+
+
+
   #### Original Example
      ###### _from https://github.com/ericferreira1992/alphabet-search-view/_
 

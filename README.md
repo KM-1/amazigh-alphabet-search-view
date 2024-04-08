@@ -8,16 +8,17 @@
 - Customization (any alphabet , any alphabetical order ..)
 - Very easy to use
 
-### Example of use cases
-- Amazigh Dictionary 
-- Contact list  with Amazigh script
-- Any App with data list that can be ordered according to the Amazigh alphabet
-- ...
 
 
 ### how to do ?
 To do deep Customization (any alphabet , any alphabetical order). You must create a class which implement  *Comparable*  and override *int function compareTo(other)*
 
+
+### Example of use cases
+- Amazigh Dictionary 
+- Contact list  with Amazigh script
+- Any App with data list that can be ordered according to the Amazigh alphabet
+- ...
 
   #### Example of Kabyle -> French Dictionnary
   with random data for testing

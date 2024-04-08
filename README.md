@@ -16,7 +16,7 @@
 
 
 ### how to do ?
-To insert these new characters of Amazigh script you must create a class which implement  *Comparable*  and override *int function compareTo(other)*
+To do deep Customization (any alphabet , any alphabetical order). You must create a class which implement  *Comparable*  and override *int function compareTo(other)*
 
 
   #### Example of Kabyle -> French Dictionnary

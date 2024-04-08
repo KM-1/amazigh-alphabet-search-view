@@ -15,7 +15,8 @@
 - ...
 
 
-#### To insert these new characters of Amazigh script you must create a class which implement  Comparable  and override 'int function compareTo(other)'
+#### how to do ?
+To insert these new characters of Amazigh script you must create a class which implement  Comparable  and override 'int function compareTo(other)'
 
 
   #### Example of Kabyle -> French Dictionnary
